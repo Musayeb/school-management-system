@@ -48,3 +48,8 @@ The user credentails can taken from your database and the password is `password`
 - Reminder Emails
 - Execel and CSV importing for tables
 - Barcode attendance system
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
